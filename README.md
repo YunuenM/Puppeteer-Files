@@ -1,1 +1,2 @@
 # Puppeteer-Files
+Programs that I have developed using Pupppeteer. It is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium. I used it mostly to make checkers that I could run quickly to update myself or the user of desired changes on a website.
